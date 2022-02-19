@@ -1,0 +1,26 @@
+h1 {
+    text-align: center; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:oblique; 
+    font-size: 100px;
+    color:gray
+}
+
+.center {
+    width: 100%;
+    Height: 100%
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-size: 80px;
+    color:gray
+}
+
+p {
+    color:gray;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px
+}

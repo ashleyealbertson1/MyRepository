@@ -1,0 +1,19 @@
+
+.section-1 {
+    background-image: url(https://www.fg-a.com/wallpapers/white-marble-4-2018.jpg)
+}
+
+.h1 {
+    background-color: #ADD8E6;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 5PX;
+    padding-bottom: 5px;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
