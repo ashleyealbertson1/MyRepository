@@ -1,0 +1,68 @@
+nav {
+    background-color: lightblue;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+li {
+    display:inline;
+    position: relative;
+    left: 1150px;
+    padding: 5px;
+}
+
+img {
+    position:relative;
+    left: 500px;
+    width: 600px;
+    height: 300px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.border {
+    border-style:solid;
+    border-color: gray;
+}
+
+h2 {
+    text-align:center;
+}
+
+.ContactMe {
+    background-color:lightgray;
+    border-style:solid;
+    border-width: 4px;
+    text-align:center;
+    padding: 50px;
+}
+
+section {
+    border-style:solid;
+    border-color:gray;
+    border-width: 3px;
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px
+}
+
+.NameBox {
+    display:inline;
+}
+
+footer {
+    background-color:lightblue;
+    padding: 20px;
+}
+ a {
+     text-decoration:none;
+     color:black;
+ }
